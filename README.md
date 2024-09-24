@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matias Guzman</h1>
 <h3 align="center">A passionate frontend and backend developer from Chile</h3>
+<p aling="center">every day learning new things</p>
 
 - 🌱 I’m currently learning **programming languages**
 
